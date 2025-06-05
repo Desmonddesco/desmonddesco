@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Desmonddesco/desmonddesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Desmond
 
-Here are some ideas to get you started:
+- 🔭 I’m a front-end developer focused on React, Vite, and Firebase
+- 🌱 Currently learning full-stack development
+- 💬 Ask me about web development, Git, Firebase, and building UIs
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourname)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [User Profile Viewer](https://your-project-link.com)
+- [Firebase React Hosting Demo](https://your-firebase-link.web.app)
+
+![Desmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=desmonddesco&show_icons=true&theme=radical)
