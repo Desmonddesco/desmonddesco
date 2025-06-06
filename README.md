@@ -1,14 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi there, I'm Mushiana Desmond<br>I'm a dedicated and results-driven Software Developer based in South Africa, with over 5 years of experience building and designing full-stack web applications, business solutions, and digital platforms. I’m passionate about crafting clean, efficient code and developing systems that are not only functional but also scalable and user-friendly.<br><br>💼 Professional Summary<br>I specialize in both front-end and back-end development, with strong knowledge of modern frameworks, database systems, and cloud technologies. Over the years, I've worked on diverse projects—from e-commerce platforms and leave management systems to API-driven apps and admin dashboards—delivering solutions tailored to client and business needs.<br><br>🎯 My Goals<br>Continue improving my backend architecture and cloud deployment skills<br><br>Work with remote teams on global software products<br><br>Solve real-world problems with technology and innovation<br><br>Contribute to open-source and tech communities<br><br>🤝 Let's Connect!<br>I’m always open to new opportunities, collaboration on interesting projects, or just a good tech chat.<br><br>🧑‍💻 Currently Available for: Freelance | Remote Work | Full-Time Roles
 
- I'm Desmond
 
-- 🔭 I’m a front-end developer focused on React, Vite, and Firebase
-- 🌱 Currently learning full-stack development
-- 💬 Ask me about web development, Git, Firebase, and building UIs
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourname)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1ATyUmdjr7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/desco_desmond?utm_source=qr&igsh=Z3FwYzM1andiNmh3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/desmond-mushiana/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mushiana.desmond@gmail.com) 
 
-## 📌 Projects
-- [User Profile Viewer](https://your-project-link.com)
-- [Firebase React Hosting Demo](https://your-firebase-link.web.app)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Desmonddesco&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Desmonddesco&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Desmonddesco&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![Desmond's GitHub stats](https://github-readme-stats.vercel.app/api?username=desmonddesco&show_icons=true&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Desmonddesco&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Desmonddesco&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
